@@ -1,4 +1,5 @@
-xoxb-161959011446-T9oQ0HHh5Yk2QtWjtFiXxg9J
+token part 1- xoxb-161959011446- 
+token part 2-phCt0goF5CrCAVS8Ml15Innb
 
 curl \
  -H 'Authorization: Bearer GNK3BJSAZ6HQISI4JO7O7AP7PSDHRELW' \
